@@ -41,7 +41,7 @@
     "generate-terriajs-schema": "^1.4.0",
     "gulp": "^4.0.0",
     "husky": "^2.2.0",
-    "json5": "^2.1.0",
+    "json5": "2.1.1",
     "nationalmap-catalog": "git://github.com/TerriaJS/NationalMap-Catalog",
     "node-notifier": "^5.1.2",
     "node-sass": "^4.11.0",
