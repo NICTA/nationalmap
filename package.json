@@ -68,7 +68,7 @@
     "webpack": "^4.29.5",
     "webpack-cli": "^3.2.2",
     "webpack-dev-server": "^3.1.14",
-    "yargs": "^11.0.0"
+    "yargs": "^15.3.1"
   },
   "scripts": {
     "docker-build-local": "node ./deploy/docker/create-docker-context-for-node-components.js --build --push --tag auto --local",
