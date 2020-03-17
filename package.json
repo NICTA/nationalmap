@@ -64,7 +64,7 @@
     "terriajs-cesium": "1.64.0",
     "terriajs-schema": "latest",
     "urijs": "^1.18.12",
-    "url-loader": "^1.1.2",
+    "url-loader": "^4.0.0",
     "webpack": "^4.29.5",
     "webpack-cli": "^3.2.2",
     "webpack-dev-server": "^3.1.14",
