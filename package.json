@@ -11,7 +11,7 @@
     "url": "http://github.com/NICTA/nationalmap"
   },
   "dependencies": {
-    "pm2": "^3.2.2",
+    "pm2": "^4.3.1",
     "terriajs-server": "^3.0.1"
   },
   "config": {
