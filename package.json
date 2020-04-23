@@ -44,7 +44,7 @@
     "json5": "^2.1.0",
     "nationalmap-catalog": "git://github.com/TerriaJS/NationalMap-Catalog",
     "node-notifier": "^5.1.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "4.13.1",
     "pell": "git://github.com/TerriaJS/pell#master",
     "plugin-error": "^1.0.1",
     "prettier": "1.17.0",
