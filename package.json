@@ -67,7 +67,7 @@
     "url-loader": "^1.1.2",
     "webpack": "^4.29.5",
     "webpack-cli": "^3.2.2",
-    "webpack-dev-server": "^3.1.14",
+    "webpack-dev-server": "3.10.3",
     "yargs": "^11.0.0"
   },
   "scripts": {
